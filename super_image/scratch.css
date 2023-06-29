@@ -1,0 +1,25 @@
+QPushButton {
+background-color: #4CAF50;
+color: #fff;
+font-size: 16px;
+border-radius: 4px;
+}
+
+QPushButton:hover {
+background-color: #3e8e41;
+cursor: pointer;
+}
+
+QComboBox {
+background-color: #4CAF50;
+color: #fff;
+font-size: 16px;
+border: 1px solid #ccc;
+border-radius: 4px;
+padding: 6px;
+}
+
+QComboBox:hover {
+background-color: #3e8e41;
+border-color: #aaa;
+}
